@@ -16,3 +16,5 @@ This harness is designed to deliver 7.4V from an RC LiPo battery to the EZ-Bv4.
 For profit use of these files requires written consent. Contact partners@synthiam.com. For everyone else party on!
 
 Please see LICENSE.md for license details.
+
+Synthiam Website: https://synthiam.com
