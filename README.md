@@ -9,7 +9,7 @@ This harness is designed to deliver 7.4V from an RC LiPo battery to the EZ-Bv4.
 
 **Documentation:** BOM, Assembly Notes
 
-**Hardware:** Altium PCB design File
+**Hardware:** Altium PCB design File, Gerbers
 
 ## License
 
