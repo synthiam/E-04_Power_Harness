@@ -15,6 +15,6 @@ This harness is designed to deliver 7.4V from an RC LiPo battery (with deans con
 
 For profit use of these files requires written consent. Contact partners@synthiam.com. For everyone else, party on!
 
-Please see LICENSE.md for license details.
+Please see [LICENSE.md](https://github.com/synthiam/E-04_Power_Harness/blob/master/LICENSE.md) for license details.
 
 Synthiam Website: https://synthiam.com
