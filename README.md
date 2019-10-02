@@ -18,3 +18,5 @@ For profit use of these files requires written consent. Contact partners@synthia
 Please see [LICENSE.md](https://github.com/synthiam/E-04_Power_Harness/blob/master/LICENSE.md) for license details.
 
 Synthiam Website: https://synthiam.com
+
+![Synthiam](https://live.staticflickr.com/65535/47791527651_358dffb302_m.jpg)
