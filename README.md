@@ -7,7 +7,7 @@ This harness is designed to deliver 7.4V from an RC LiPo battery (with deans con
 
 ## Contents
 
-**Documentation:** BOM, Assembly Notes
+**Documentation:** BOM, Assembly Notes, Test Procedures
 
 **Hardware:** Altium PCB design File, Gerbers
 
