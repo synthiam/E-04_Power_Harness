@@ -25,9 +25,9 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 
 ## Contents
 
-**Documentation:** BOM, Assembly Notes, Test Procedures
+[**Documentation:**](https://github.com/synthiam/E-04_Power_Harness/tree/master/E-04%20Documentation) BOM, Assembly Notes, Test Procedures
 
-**Hardware:** Altium PCB design File, Gerbers
+[**Hardware:**](https://github.com/synthiam/E-04_Power_Harness/tree/master/E-04%20Hardware) Altium PCB design File, Gerbers
 
 ## Photos
 
