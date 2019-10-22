@@ -56,11 +56,9 @@ For support check out our Synthiam Community: https://synthiam.com/Community
 
 ## License
 
-This project is released under the following licenses:
+This project is released under the following license:
 
 **Hardware:** Creative Commons Plus Attribution-NonCommercial 4.0 International (CC+ BY-NC 4.0)
-
-**Firmware:** Apache 2.0 + “Commons Clause” License Condition v1.0
 
 Please see [LICENSE.md](https://github.com/synthiam/E-04_Power_Harness/blob/master/LICENSE.md) for license details.
 
