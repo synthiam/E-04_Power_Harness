@@ -22,6 +22,7 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 - Fuse protection: 20A ATM mini blade fuse
 - Wire Length: 6"
 - Dimensions: 25.9(W) x 40.9(L) x 13.9(H) (mm) PCB+fuse
+- Weight: 13g
 
 ## Contents
 
